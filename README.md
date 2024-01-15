@@ -1,16 +1,9 @@
 # age_calculator
 
-A new Flutter project.
+A simple single page flutter application where you can choose your birthday and it get your age in year and months as an output.
 
-## Getting Started
+packages used:
+Provider => for state management
+flutter_date-picker => for picking the date from a calender
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
